@@ -1,0 +1,10 @@
+#+title: ConcaveTeam site
+
+* Dependencies
+- [[https://jekyllrb.com/][jekyll]] :: Static site generator
+
+* Testing
+- Clone this repository
+- Navigate to the cloned repository
+- Run =jekyll server=
+- Point your browser to =localhost:4000=
