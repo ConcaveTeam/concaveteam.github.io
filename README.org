@@ -1,5 +1,7 @@
 #+title: ConcaveTeam site
 
+[[https://travis-ci.com/ConcaveTeam/concaveteam.github.io][https://travis-ci.com/ConcaveTeam/concaveteam.github.io.svg?branch=master]]
+
 * Dependencies
 - [[https://jekyllrb.com/][jekyll]] :: Static site generator
 
