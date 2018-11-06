@@ -1,3 +1,6 @@
 language: ruby
 
-script: jekyll build
+install:
+  - gem install jekyll
+script:
+  - jekyll build
