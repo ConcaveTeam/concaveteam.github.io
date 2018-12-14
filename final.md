@@ -12,7 +12,7 @@ We were able to generate maps with no gaping holes or problems
 
 ## Firmware/Electrical
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dk5_i7hwDV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="images/proto.jpg" height="300em">
 
 We optimized the connections from the teensy and the arduino to optimize the speed at which the program runs.
 The teensy runs faster but the uno can output more power and we optimized the connections to draw enough power while having the commands come from the teensy 3.6 which ran at 180Mhz while the Uno ran at 16Mhz to minimize delay.

@@ -6,6 +6,11 @@ title: Overview
 We created a NERF launcher which identifies and targets moving objects in its field of view.
 This involves the integration of many systems, which are summarized here.
 
+This is our final product in action.
+Our willing test subject Julian is being successfully targeted by our system.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dk5_i7hwDV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Goals
 
 Our project calls for a 3D mapping so that a linear transform can be established from the camera frame of reference to the NERF frame of reference.
