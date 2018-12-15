@@ -12,7 +12,7 @@ We were able to generate maps with no gaping holes or problems
 
 ## Firmware/Electrical
 
-<img src="images/proto.jpg" height="300em">
+<img src="https://docs.google.com/uc?id=1pdTDOC9zbrRw-TrhYmr9l6fm24j2rx8B" height="300em">
 
 We optimized the connections from the teensy and the arduino to optimize the speed at which the program runs.
 The teensy runs faster but the uno can output more power and we optimized the connections to draw enough power while having the commands come from the teensy 3.6 which ran at 180Mhz while the Uno ran at 16Mhz to minimize delay.
@@ -22,4 +22,6 @@ The teensy runs faster but the uno can output more power and we optimized the co
 <img src="images/pic03.jpg" height="300em">
 <img src="images/finalmech.png" height="300em">
 
-For our final design, we wanted to upgrade the look and function of the mechanical system. The first step was to outfit the launcher with an upgraded Nerf gun. We were able to attain another Nerf Stryfe with modifications made to its trigger, motors, flywheels, barrel, and battery. The upgrades made the darts fire with more accuracy, consistency, and speed which would help with the reliability of the entire launcher system. The other major change was the switch from an MDF frame to one made of acrylic. We wanted to create a more slick and elegant look for the pan-tilt mechanism and we felt acrylic was a suitable replacement for MDF. When making our switch to acrylic, we made minor changes to the previous model, such a circular base and various minor dimension changes. 
+For our final product, we chose to work on improving the function and increasing the aesthetics of the mechanical system. We reoutfitted our mechanism with an upgraded Nerf launcher that featured modifications to its trigger, motor, flywheels, barrel and battery. With the new launcher, the darts were able to fly faster, with higher accuracy and precision which decreased the latency of the entire system. We also added additional circular bearings to reduce the shear on the bearing support for the tilt servo. 
+
+To increase the visual appeal of the total system, we remade everything out of clear acrylic. With the smooth finish and transparent qualities that would expose the inner workings of our system, we believed that acrylic would give our mechanism a slick and elegant look that the MDF did not achieve. Acrylic was chosen as it had similar material properties to the MDF in terms of machinability concerns although additional provisions had to be made for differing chemical properties in terms of assembly. While the acrylic proved to be less forgiving as it is more brittle than MDF, the rigidity improved our stereo vision as the base was less flexible and was affected less by the uneven surface that it was lying on. We also edited some of our designs with visuals in mind such as the circular base. 
